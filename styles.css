@@ -1,0 +1,109 @@
+body {
+  padding: 0;
+  margin: 30px 0 30px 0;
+  background-color: rgb(240, 240, 245);
+  font-family: Verdana, sans-serif;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.img-caption a {
+  text-decoration: none;
+  color: blue;
+}
+
+ul {
+	margin: 20px 50px 20px 50px;
+}
+
+ul li {
+	font-size: 20px;
+	line-height: 1.8;
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+h4 a {
+  text-decoration: none;
+  color: blue;
+}
+.bold {
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 46px;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+h1 a {
+  text-decoration: none;
+  color: black;
+}
+
+h2, h3 {
+  margin-top: 40px;
+  font-size: 32px;
+  margin-bottom: 20px;
+  padding: 0;
+  color: black;
+}
+
+h4 {
+	font-size: 22px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.image-div {
+  background-color: rgb(255, 255, 255);
+}
+
+.img-caption {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 10px 0;
+}
+
+.quote {
+  text-align: center;
+  font-size: 26px;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.quotes-container {
+  margin: 40px 30px 40px 30px;
+}
+
+.quotes-container p {
+  margin: 30px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  object-fit: fill;
+  margin-top: 40px;
+  margin-bottom: auto;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(220, 225, 245);
+}
+
+container {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
